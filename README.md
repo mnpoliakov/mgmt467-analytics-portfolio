@@ -1,4 +1,3 @@
-# mgmt467-analytics-portfolio
 # MGMT 467 — Analytics Portfolio
 This repo contains my work for Purdue's MGMT 467 (AI-Assisted Big Data in the Cloud).
 ## Structure
